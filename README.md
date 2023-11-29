@@ -22,3 +22,9 @@ Programs, Peoples, Companies, and Resources about Bug Bounty in Ukraine
 - https://www.trip.ua/.well-known/security.txt
 - https://netspider.com.ua/.well-known/security.txt
 - https://www.lifecell.ua/.well-known/security.txt
+
+
+## Articles & news
+
+- [Prozorro відновлює програму Bug Bounty. За знайдену вразливість можна отримати до 28 000 грн](https://dev.ua/news/prozorro-oholoshuie-bug-bounty-1692190358)
+- [Bug Bounty: досвід українських компаній](https://smarttender.biz/blog/view/bug-bounty-dosvid-ukrayinskih-kompaniy/)
