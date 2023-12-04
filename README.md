@@ -28,3 +28,4 @@ Programs, Peoples, Companies, and Resources about Bug Bounty in Ukraine
 
 - [Prozorro відновлює програму Bug Bounty. За знайдену вразливість можна отримати до 28 000 грн](https://dev.ua/news/prozorro-oholoshuie-bug-bounty-1692190358)
 - [Bug Bounty: досвід українських компаній](https://smarttender.biz/blog/view/bug-bounty-dosvid-ukrayinskih-kompaniy/)
+- [Monobank запускає Bug Bounty.](https://dou.ua/lenta/news/bug-bounty-by-mono/)
