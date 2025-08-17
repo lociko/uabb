@@ -12,6 +12,7 @@ Programs, Peoples, Companies, and Resources about Bug Bounty in Ukraine
 - https://vsys.host/bug-bounty-program/uk - max 5000$
 - https://hackerone.com/grammarly - max 100000$
 - https://hackenproof.com/company/pumb-dot-ua/programs -  max 2000$
+- https://hackerone.com/security.txt - резинові качки
 
 ## Vulnerability disclosure
 
